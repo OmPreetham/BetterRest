@@ -11,7 +11,7 @@ BetterRest is a SwiftUI application that helps users determine the optimal bedti
 
 ## Screenshots
 
-![BetterRest](betterrest.png)
+![BetterRest](./screenshots/betterrest.png)
 
 ## Installation
 
